@@ -34,7 +34,7 @@ sections:
   schedule: true
   sponsors: false
   partners: false
-  contact: false
+  contact: true
 
 # The entire schedule
 schedule:
@@ -114,18 +114,18 @@ c4p_section:
 
 # Contact section
 contact_section:
-   title: "Contact"
-   text: "Contact us if you have any questions."
+   title: "Contato"
+   text: "Fale conosco se tiver qualquer dúvida!"
    contacts:
    -
      title: "Email"
-     link: "mailto:your_email@domain"
+     link: "mailto:gdgaracaju@gmail.com"
    -
-     title: "Facebook"
-     link: "https://www.facebook.com/yourpage"
-   email: "your_email@domain"
-   twitter_url: "http://twitter.com/your_twitter"
-   twitter_username: "@your_twitter"
+     title: "Google+"
+     link: "https://plus.google.com/communities/100418157558568471841"
+   email: "gdgaracaju@gmail.com"
+   twitter_url: "http://twitter.com/gdgaracaju"
+   twitter_username: "@gdgaracaju"
    show_form: false
    form:
     action: "contato.php"
@@ -136,26 +136,26 @@ contact_section:
 
 # Location section
 location_section:
-   title: "Location"
+   title: "Local"
 
 # Partners section
 partners_section:
-   title: "Partners"
+   title: "Parceiros"
    show_your_logo_here: true
 
 # Schedule section
 schedule_section:
-   title: "Schedule"
-   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-   time: "Time"
-   slot: "Slot"
-   description: "Description"
+   title: "Agenda"
+   text: ""
+   time: "Hora"
+   slot: "Sessão"
+   description: "Descrição"
 
 # Speakers section
 speakers_section:
-   title: "Speakers"
+   title: "Palestrantes"
 
 # Sponsors section
 sponsors_section:
-   title: "Sponsors"
+   title: "Patrocinadores"
    show_your_logo_here: true
