@@ -20,7 +20,7 @@ site:
   googleanalytics: "UA-49492619-1"
   images:
     cover: "http://io.gdgaracaju.com.br/img/cover.png"
-    facebook: "http://io.gdgaracaju.com.br/img/cover.png"
+    facebook: "http://io.gdgaracaju.com.br/img/social.png"
 
 subscribe_text: "Inscreva-se no evento!"
 subscribe_url: "https://goo.gl/2f6MzS"
