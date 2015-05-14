@@ -124,12 +124,10 @@ partners:
 
 # About section
 about_section:
-   title: "About"
+   title: "O que é o Google I/O?"
    description: 
     - 
-      p: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    - 
-      p: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      p: "Google I/O é um evento anual de tecnologia que acontece na sede do Google na Califórnia e simultaneamente em mais de 600 lugares em 90 países do mundo todo, através dos eventos I/O Extended.  O objetivo é fomentar o empreendedorismo digital, a economia criativa e a inovação tecnológica. Buscamos promover o ativismo digital, o engajamento e a colaboração, visando a disseminação desses valores em nossa região."
 
 # Call for papers section
 c4p_section:
