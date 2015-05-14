@@ -33,7 +33,7 @@ sections:
   speakers: false
   schedule: true
   sponsors: false
-  partners: false
+  partners: true
   contact: true
 
 # The entire schedule
@@ -141,7 +141,47 @@ location_section:
 # Partners section
 partners_section:
    title: "Parceiros"
-   show_your_logo_here: true
+   show_your_logo_here: false
+   your_logo_here_link: "mailto:gdgaracaju@gmail.com"
+
+partners:
+  -
+    name: "CajuValley"
+    logo: "./img/partners/cajuvalley.png"
+    url: "https://www.facebook.com/cajuvalley"
+  -
+    name: "CEC"
+    logo: "./img/partners/cec.png"
+    url: "http://www.cecaracaju.com.br/coworking/"
+  -
+    name: "FANESE"
+    logo: "./img/partners/fanese.png"
+    url: "http://www.fanese.edu.br/"
+  -
+    name: "Getinfo"
+    logo: "./img/partners/getinfo.png"
+    url: "http://getinfo.net.br/"
+  -
+    name: "GDG Aracaju"
+    logo: "./img/partners/gdgaracaju.png"
+    url: "http://www.gdgaracaju.com.br/"
+  -
+    name: "DP Sistemas"
+    logo: "./img/partners/dpsistemas.png"
+    url: "http://www2.dpsistemas.com.br/"
+  -
+    name: "Popcode"
+    logo: "./img/partners/popcode.jpg"
+    url: "http://www.popcode.com.br/"
+  -
+    name: "Rede+"
+    logo: "./img/partners/redemais.png"
+    url: "http://gruporedemais.com/"
+  -
+    name: "SergipeTec"
+    logo: "./img/partners/sergipetec.png"
+    url: "http://www.sergipetec.se.gov.br/"
+
 
 # Schedule section
 schedule_section:
