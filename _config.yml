@@ -79,8 +79,84 @@ schedule:
     twitter: ""
     presentation:
       title: "Desmistificando Gradle"
-      description: ""
+      description: "Palestra local: com o Android Studio, o Google introduziu o Gradle como ferramenta de build para o Android. Aventure-se conosco e aprenda a tirar o máximo do Gradle!"
       time: "28/05 19:00"
+  -
+    name: "Entrada: Dia 2"
+    time: "29/05 12:30"
+  -
+    name: "Addy Osmani, Eric Bidelman, Matthew McNulty e Tayler Savage"
+    photo: "img/io.png"
+    bio: ""
+    company: "Google"
+    twitter: ""
+    presentation:
+      title: "Polymer and modern web APIs: In production at Google scale"
+      description: "Ao vivo de San Francisco, descubra como os times no Google tem lançado sites com sucesso usando Polymer e as mais novas APIs: Web Animations, Service Workers para notificações push e offline, e material design. Ainda será demonstrado como aplicar as mesmas ferramentas que o Google usando o Polymer Starter Kit, um novo toolkit para criar apps mobile-first."
+      time: "29/05 13:00"
+  -
+    name: "Jacquelline Fuller"
+    photo: "img/io.png"
+    bio: ""
+    company: "Google"
+    twitter: ""
+    presentation:
+      title: "Tech for a better world, faster: A discussion with Google.org's social innovators"
+      description: "Ao vivo de San Francisco."
+      time: "29/05 14:00"
+  -
+    name: "Alex Faaborg, Erica Morse, Jon Wiley, Manuel Clement"
+    photo: "img/io.png"
+    bio: ""
+    company: "Google"
+    twitter: ""
+    presentation:
+      title: "Designing for virtual reality"
+      description: "Ao vivo de San Francisco."
+      time: "29/05 15:00"
+  -
+    name: "Ellie Powers"
+    photo: "img/io.png"
+    bio: ""
+    company: "Google"
+    twitter: ""
+    presentation:
+      title: "Developers connecting the world through Google Play"
+      description: "Ao vivo de San Francisco."
+      time: "29/05 16:00"
+  -
+    name: "Intervalo"
+    time: "29/05 17:00"
+  -
+    name: "Brett Lider, David Singleton"
+    photo: "img/io.png"
+    bio: ""
+    company: "Google"
+    twitter: ""
+    presentation:
+      title: "Android Wear: Your app and the always-on screen"
+      description: "Ao vivo de San Francisco."
+      time: "29/05 18:00"
+  -
+    name: "Sameera Ponda, Wanda Hung"
+    photo: "img/io.png"
+    bio: ""
+    company: "Google"
+    twitter: ""
+    presentation:
+      title: "Engineering for the Stratosphere - Presented by Women Techmakers"
+      description: "Ao vivo de San Francisco."
+      time: "29/05 19:00"
+  -
+    name: "Esteban de la Canal, Jerome Dochez"
+    photo: "img/io.png"
+    bio: ""
+    company: "Google"
+    twitter: ""
+    presentation:
+      title: "Android Developers Tools: Deep dive into Performance & Build Tools"
+      description: "Ao vivo de San Francisco."
+      time: "29/05 20:00"
 
 # List of Sponsors
 sponsors:
@@ -186,9 +262,9 @@ partners:
 # Schedule section
 schedule_section:
    title: "Agenda"
-   text: ""
+   text: "A programação pode sofrer alterações sem avisos prévios."
    time: "Hora"
-   slot: "Sessão"
+   slot: "Atividade"
    description: "Descrição"
 
 # Speakers section
