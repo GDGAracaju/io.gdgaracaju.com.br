@@ -5,35 +5,35 @@ permalink: /:title.html
 
 # Conference info
 conf:
-  name: "Conference name"
-  description: "Conference description"
-  date: "November 15"
-  price: "Only $100"
-  address: "Boulevard Kukulcan, 30, México"
-  venue: "Coco Bongo"
-  city: "Cancún"
+  name: "Google I/O '15 Extended Aracaju"
+  description: "Participe do Google I/O junto com o GDG Aracaju"
+  date: "28 e 29 de maio"
+  price: "Gratuito"
+  address: ""
+  venue: ""
+  city: "Aracaju"
 
 # Site info
 site:
-  url: "http://confboilerplate.com"
-  favicon: "http://braziljs.org/favicon.ico"
-  googleanalytics: "UA-33656081-1"
+  url: "http://io.gdgaracaju.com.br"
+  favicon: "http://site.gdgaracaju.com.br/favicon.png"
+  googleanalytics: "UA-49492619-1"
   images:
-    cover: "http://f.cl.ly/items/2X28422q1e3w0C2U1P3H/866591_24254643.jpg"
-    facebook: "http://braziljs.org/img/fb-share.jpg"
+    cover: "http://io.gdgaracaju.com.br/img/cover.png"
+    facebook: "http://io.gdgaracaju.com.br/img/cover.png"
 
-subscribe_text: "Register now"
-subscribe_url: "http://www.eventick.com.br/"
+subscribe_text: "Inscreva-se no evento!"
+subscribe_url: "https://goo.gl/2f6MzS"
 
 # Active sections on the website
 sections:
   about: true
-  c4p: true
-  location: true
-  speakers: true
-  schedule: true
-  sponsors: true
-  partners: true
+  c4p: false
+  location: false
+  speakers: false
+  schedule: false
+  sponsors: false
+  partners: false
   contact: false
 
 # The entire schedule
