@@ -125,8 +125,15 @@ schedule:
       description: "Ao vivo de San Francisco."
       time: "29/05 16:00"
   -
-    name: "Intervalo"
-    time: "29/05 17:00"
+    name: "A confirmar"
+    photo: "img/io.png"
+    bio: ""
+    company: ""
+    twitter: ""
+    presentation:
+      title: "Polymer"
+      description: "Palestra local: Aventure-se com Polymer!"
+      time: "29/05 17:00"
   -
     name: "Brett Lider, David Singleton"
     photo: "img/io.png"
