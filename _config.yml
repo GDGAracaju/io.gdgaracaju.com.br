@@ -125,14 +125,14 @@ schedule:
       description: "Ao vivo de San Francisco."
       time: "29/05 16:00"
   -
-    name: "A confirmar"
-    photo: "img/io.png"
+    name: "Eduardo Borges"
+    photo: "img/eduardo.jpg"
     bio: ""
     company: ""
     twitter: ""
     presentation:
-      title: "Polymer"
-      description: "Palestra local: Aventure-se com Polymer!"
+      title: "Polymer for noobs"
+      description: "Palestra local: aventure-se com Polymer e venha descobrir como começar a tirar proveito desta tecnologia!"
       time: "29/05 17:00"
   -
     name: "Brett Lider, David Singleton"
