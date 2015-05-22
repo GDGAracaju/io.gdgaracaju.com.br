@@ -172,13 +172,6 @@ sponsors:
     logo: "http://f.cl.ly/items/1U3p0Z0e2w0I1i3z1X22/Image%202012.09.25%203:00:58%20PM.png"
     url: "http://eventick.com.br"
 
-# List of Partners
-partners:
-  -
-    name: "BrazilJS"
-    logo: "http://f.cl.ly/items/2N3i2W0X2f3c2g2Z2N0f/Untitled-1.png"
-    url: "http://braziljs.org"
-
 # About section
 about_section:
    title: "O que é o Google I/O?"
@@ -237,6 +230,14 @@ partners:
     logo: "./img/partners/cec.png"
     url: "http://www.cecaracaju.com.br/coworking/"
   -
+    name: "DP Sistemas"
+    logo: "./img/partners/dpsistemas.png"
+    url: "http://www2.dpsistemas.com.br/"
+  -
+    name: "Infonet"
+    logo: "./img/partners/infonet.png"
+    url: "http://www.infonet.com.br/"
+  -
     name: "FANESE"
     logo: "./img/partners/fanese.png"
     url: "http://www.fanese.edu.br/"
@@ -248,10 +249,6 @@ partners:
     name: "GDG Aracaju"
     logo: "./img/partners/gdgaracaju.png"
     url: "http://www.gdgaracaju.com.br/"
-  -
-    name: "DP Sistemas"
-    logo: "./img/partners/dpsistemas.png"
-    url: "http://www2.dpsistemas.com.br/"
   -
     name: "Popcode"
     logo: "./img/partners/popcode.jpg"
